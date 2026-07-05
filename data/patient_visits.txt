@@ -1,0 +1,23 @@
+# Patient Visit Tracker Phase 1 sample data
+# Format: VisitID|PatientName|YYYY-MM-DD|ReasonForVisit|ProviderName|Yes/No
+VisitID|PatientName|VisitDate|ReasonForVisit|ProviderName|FollowUpNeeded
+101|A. Smith|2027-01-01|Annual checkup|Dr. Lee|Yes
+102|B. Jones|2027-01-02|Follow-up appointment|Dr. Patel|Yes
+103|C. Brown|2027-01-03|Consultation|Dr. Lee|No
+104|D. Wilson|2027-01-04|Blood pressure check|Dr. Garcia|No
+105|E. Davis|2027-01-05|Medication review|Dr. Patel|Yes
+106|F. Miller|2027-01-06|Routine physical|Dr. Lee|No
+107|G. Moore|2027-01-07|Lab results review|Dr. Garcia|Yes
+108|H. Taylor|2027-01-08|Vaccination|Dr. Patel|No
+109|I. Anderson|2027-01-09|Headache evaluation|Dr. Lee|Yes
+110|J. Thomas|2027-01-10|Allergy consultation|Dr. Garcia|No
+111|K. Jackson|2027-01-11|Diabetes check|Dr. Patel|Yes
+112|L. White|2027-01-12|Back pain evaluation|Dr. Lee|No
+113|M. Harris|2027-01-13|Follow-up appointment|Dr. Garcia|Yes
+114|N. Martin|2027-01-14|Annual checkup|Dr. Patel|No
+115|O. Thompson|2027-01-15|Medication review|Dr. Lee|Yes
+116|P. Martinez|2027-01-16|Routine physical|Dr. Garcia|No
+117|Q. Robinson|2027-01-17|Lab results review|Dr. Patel|Yes
+118|R. Clark|2027-01-18|Blood pressure check|Dr. Lee|No
+119|S. Rodriguez|2027-01-19|Consultation|Dr. Garcia|Yes
+120|T. Lewis|2027-01-20|Vaccination|Dr. Patel|No

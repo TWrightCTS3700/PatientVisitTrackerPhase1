@@ -4,7 +4,7 @@ import java.time.LocalDate;
 
 /**
  * Represents one patient visit record.
- * Each object contains the six fields approved in the project requirements.
+ * Each object contains the six fields.
  */
 public final class PatientVisit {
     private final int visitId;
